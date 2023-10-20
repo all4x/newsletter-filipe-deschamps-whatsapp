@@ -176,4 +176,6 @@ dist
 
 # whatsappwep
 .wwebjs_auth
+.wwebjs_cache/
+.wwebjs_auth/session
 .wwebjs_cache
